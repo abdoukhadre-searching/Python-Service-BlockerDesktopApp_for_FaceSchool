@@ -1,0 +1,6 @@
+1-vlc.exe
+2-notepad.exe
+3-Code.exe
+4-idea64.exe
+5-msedge.exe
+6-chrome.exe
